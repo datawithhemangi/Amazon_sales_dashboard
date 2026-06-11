@@ -29,3 +29,4 @@ Using Excel features like:
 
 ✅ Dashboard Design
 
+<img width="1358" height="798" alt="Amazon_sales_dashboard" src="https://github.com/user-attachments/assets/9a195d73-9ce1-444d-872e-1a9b839bb5dd" />
